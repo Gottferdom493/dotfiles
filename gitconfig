@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raphael.bichet@yahoo.com
+	name = raphael
